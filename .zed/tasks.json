@@ -11,7 +11,7 @@
     "label": "Run Tests",
     "command": "./gradlew",
     "args": ["test"],
-    "use_new_terminal": true,
+    "use_new_terminal": false,
     "allow_concurrent_runs": false,
     "reveal": "always"
   },
